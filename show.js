@@ -1,2 +1,2 @@
-var t='hello world';
+var t='hello dfsjkfns';
 document.write(t)
