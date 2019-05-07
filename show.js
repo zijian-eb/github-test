@@ -1,2 +1,2 @@
-var t='hello world';
-document.write(t)
+var test = 'hello world';
+document.write(test)
